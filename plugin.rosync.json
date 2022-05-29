@@ -2,5 +2,7 @@
   "name": "test",
   "author": "Siekieralol",
   "version": "1.0.0",
-  "permissions": []
+  "permissions": ["ADD_FILES"],
+  "dependencies": [],
+  "api": "1.0.0"
 }
